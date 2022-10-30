@@ -11,7 +11,7 @@ import type {
   CSSPropertyJustifySelf,
   CSSPropertyFlexWrap,
   CSSPropertyAlignSelf,
-} from '@types/styles'
+} from 'types/styles'
 import { toPropValue } from 'utils/styles'
 
 type FlexProps = BoxProps & {
